@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Antony 👋
 
-<!--
-**antony-sierra/antony-sierra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a newly graduated Webmaster student and aspiring Frontend Developer based in Sweden.  
+I enjoy building clean, responsive and user-friendly web interfaces with a focus on both code and design.
 
-Here are some ideas to get you started:
+## 🚀 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Recently graduated from the Webmaster Program
+- 💻 Focused on Frontend Development and UX Design
+- 🌱 Currently improving my skills in React, TypeScript and modern web development
+- 🎨 Interested in creating digital experiences that are simple, accessible and visually clear
+- 🔍 Looking for opportunities as a Frontend Developer
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- TypeScript
+- Tailwind CSS
+
+### Design & Tools
+- Figma
+- Git
+- GitHub
+- VS Code
+
+## 📫 Contact
+
+- Portfolio: antonysierra.com
+- LinkedIn: www.linkedin.com/in/antony-sierra-637022286
+- Email: antony.sierra@proton.me
+
+---
+
+Thanks for visiting my profile!
